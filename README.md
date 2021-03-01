@@ -31,12 +31,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## Utilizando o projeto
 
-# Clonar o repositório
-$ git clone https://github.com/MayconLeite/nlw.git
-
-#Entrar no diretório
-$ cd nlw
-
 # Instalar as dependências
 $ yarn install
 
