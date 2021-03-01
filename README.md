@@ -31,8 +31,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## Utilizando o projeto
 
-# Instalar as dependências
+### Instalar as dependências
 $ yarn install
 
-# Iniciar o projeto
+### Iniciar o projeto
 $ yarn start
